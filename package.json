@@ -13,8 +13,10 @@
     "url": "https://github.com/arifszn/gitprofile/issues"
   },
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
+     "dev": "vite",
+  "build": "tsc && vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "lint:fix": "eslint . --fix --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier --check \"./**/*.{js,jsx,ts,tsx,css,md,json}\"",
