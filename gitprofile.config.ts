@@ -71,7 +71,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://raw.githubusercontent.com/only-as19/myProfile/main/public/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/only-as19/myProfile/main/public/resume.pdf'
   },
   skills: [
     'PHP',
