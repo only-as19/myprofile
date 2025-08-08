@@ -16,7 +16,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['only-as/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['only-as19/my-project1', 'only-as19/my-project2']
         },
       },
       manual: {
@@ -71,7 +71,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/only-as19/myProfile/main/public/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
