@@ -129,16 +129,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Sialkot',
+      degree: 'Bachelor degree of Infomation Technology',
+      from: '2023',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Superior College',
+      degree: 'FSc Medical',
+      from: '2021',
+      to: '2023',
     },
   ],
   publications: [
