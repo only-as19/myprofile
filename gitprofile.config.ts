@@ -87,18 +87,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Fiver',
+      position: 'Front-End Developer',
+      from: 'June 2023',
+      to: 'July 2023',
+      ProjectLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'University of Sialkot',
+      position: 'Full Stack Developer',
+      from: 'April 2025',
+      to: 'July 2025',
+      ProjectLink: 'https://example.com',
     },
   ],
   certifications: [
