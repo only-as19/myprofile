@@ -108,6 +108,12 @@ const CONFIG = {
       year: 'Aug 2025',
       link: 'https://scrimba.com/certificate-cert2uNjfKA21CNdNerFWS6U4aKZNSRCdoTvMLt',
     },
+        {
+      name: 'LEARN REACT',
+      body: 'In-depth course on React fundamentals, covering component-based architecture, JSX, state and props management, event handling, conditional rendering, list rendering, hooks, and best practices for building dynamic, reusable, and maintainable user interfaces',
+      year: 'Aug 2025',
+      link: 'https://scrimba.com/certificate-cert2uNjfKA21CNdNerFWS6U3LQcxzSkfa7rTKN',
+    },
   ],
   educations: [
     {
