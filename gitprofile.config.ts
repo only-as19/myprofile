@@ -2,13 +2,9 @@
 
 const CONFIG = {
   github: {
-    username: 'only-as19', // Your GitHub org/user name. (This is the only required config)
+    username: 'only-as19',
   },
-  /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
-   * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
-   */
+  
   base: '/myprofile/',
   projects: {
     github: {
@@ -20,12 +16,11 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['only-as/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
-        // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [],
       },
     },
     external: {
@@ -53,7 +48,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Asad Latif', description: 'My personal developer portfolio', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'www.linkedin.com/in/malik-asad-707b2726b',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -61,13 +56,13 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', 
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: '',
+    dev: '',
+    stackoverflow: '', 
     discord: '',
     telegram: '',
     website: '',
@@ -155,7 +150,7 @@ const CONFIG = {
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
-    id: 'G-5277PB20CB', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-LHEC7T8HS9', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
