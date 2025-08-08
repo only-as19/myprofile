@@ -103,10 +103,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'FRONTEND DEVELOPER CAREER PATH',
+      body: 'Extensive professional training program focused on modern front-end development, encompassing semantic HTML, advanced CSS, JavaScript fundamentals and ES6+, React framework development, responsive design methodologies, and core UI/UX design principles.',
+      year: 'Aug 2025',
+      link: 'https://scrimba.com/certificate-cert2uNjfKA21CNdNerFWS6U4aKZNSRCdoTvMLt',
     },
   ],
   educations: [
