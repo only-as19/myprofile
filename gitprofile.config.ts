@@ -71,7 +71,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://raw.githubusercontent.com/only-as19/myprofile/main/public/resume.pdf'
+      'https://raw.githubusercontent.com/only-as19/myprofile/main/src/resume/resume.pdf'
   },
   skills: [
     'PHP',
