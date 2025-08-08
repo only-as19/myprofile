@@ -114,6 +114,18 @@ const CONFIG = {
       year: 'Aug 2025',
       link: 'https://scrimba.com/certificate-cert2uNjfKA21CNdNerFWS6U3LQcxzSkfa7rTKN',
     },
+    {
+      name: 'LEARN TAILWIND CSS',
+      body: 'Specialized training in utility-first CSS development using Tailwind CSS, including responsive design techniques, component styling, customization through configuration, theme management, and best practices for building modern, consistent, and maintainable user interfaces.',
+      year: 'Aug 2025',
+      link: 'https://scrimba.com/certificate-cert24zAwJ78oRsCTYa4P4XsjtHCgjq9wc8C1GkHJ',
+    },
+    {
+      name: 'Respponsive Web Design',
+      body: 'Comprehensive training in responsive web design principles, covering fluid layouts, flexible grids, media queries, and mobile-first development strategies to ensure optimal user experiences across a wide range of devices and screen sizes',
+      year: 'May 2025',
+      link: 'https://www.freecodecamp.org/certification/asad_19/responsive-web-design',
+    },
   ],
   educations: [
     {
